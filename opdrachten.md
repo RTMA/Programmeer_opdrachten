@@ -196,11 +196,12 @@ Een telefoonbedrijf rekent de volgende maandelijkse kosten voor
 | 501-800 | 0,008 |
 | 801+ | 0,005 |
 
+
 Schrijf een programma dat:
 1. Vraag hoeveel seconden er deze maand zijn gebeld
-* Reads how many seconds was the calls duration
-* Calculates the monthly bill for the subscriber
-* Prints the total amount
-* Output: "total amount: 48$"
+2. De kosten voor deze maand berekent 
+3. De kosten in de console print.
+
+Resultaat: "Totale kosten deze maand: €48"
 
 #### Let op! De kosten voor de eerste 500 seconden zijn altijd €0,01 dan voor alle seconden tussen 501 en 800 zijn de kosten €0,008 en voor alle seconden meer dan 801 €0,005 
